@@ -15,12 +15,12 @@
 
 1. Склонируйте репозиторий:
 ```
-git clone ...
+git clone https://github.com/MegaDoge1337/otus-typing-challange
 ```
 
 2. Перейдите в директорию с проектом:
 ```
-cd ...
+cd otus-typing-challange
 ```
 
 3. Установите зависимости:
