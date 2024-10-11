@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "otus-zebur-challenge"
+name = "otus-typing-challenge"
 version = "0.1.0"
 description = ""
 authors = ["Aleksandr <gggols32@gmail.com>"]
