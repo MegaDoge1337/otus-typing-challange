@@ -7,6 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+black = "^24.10.0"
+isort = "^5.13.2"
+ruff = "^0.6.9"
+pre-commit = "^4.0.1"
+pyupgrade = "^3.17.0"
+mypy = "^1.11.2"
 
 
 [build-system]
